@@ -1,0 +1,5 @@
+- 👋 Hi, I’m James
+- 👀 I’m interested in Coding using Xcode (Swift Ui)
+- 🌱 I’m currently learning coding
+- 💞️ I’m looking to collaborate on a project for an app idea I have.
+- 📫 You can Text me at 239-462-7044 and email me at jwilboniii78@gmail.com
